@@ -6,12 +6,17 @@ Primary Actor: Corporate Manager
 Goal in Context: The corporate manager is able to determine license information from provided project information. 
 
 Stakeholders: 
+
 -Corporate Manager: To receive clear and relevant project information 
+
 -Corporate Developer: To provide the relevant file/package level information
+
 -Project Owner: To clearly understand corporate manager decisinos to green/red light a project
 
 Preconditions: 
+
 -Relevant file/package information is in the SPDX database
+
 -Proper project information has been provided 
 
 Main Success Scenario:  Corporate manager receives accurate license and vulnerability information for the requested project packages
