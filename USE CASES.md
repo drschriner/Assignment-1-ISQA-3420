@@ -1,6 +1,5 @@
 
-##Title: 
-Determine License and Vulnerability Information 
+##Title:   Determine License and Vulnerability Information 
 
 ##Primary Actor: 
 Corporate Manager
