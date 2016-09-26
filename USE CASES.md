@@ -10,7 +10,7 @@ The corporate manager is able to determine license information from provided pro
 
 ##Stakeholders: 
 
-+ ######*Corporate Manager:*###### To receive clear and relevant project information 
++ ######*Corporate Manager:* To receive clear and relevant project information 
 
 + *Corporate Developer:* To provide the relevant file/package level information
 
@@ -18,9 +18,9 @@ The corporate manager is able to determine license information from provided pro
 
 ##Preconditions: 
 
-+ Relevant file/package information is in the SPDX database
++ #####Relevant file/package information is in the SPDX database
 
-+ Proper project information has been provided 
++ #####Proper project information has been provided 
 
 ##Main Success Scenario:  
 Corporate manager receives accurate license and vulnerability information for the requested project packages
