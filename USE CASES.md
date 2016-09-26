@@ -10,7 +10,7 @@ The corporate manager is able to determine license information from provided pro
 
 ##Stakeholders: 
 
-+ ######*Corporate Manager:* To receive clear and relevant project information 
++ *Corporate Manager:* To receive clear and relevant project information 
 
 + *Corporate Developer:* To provide the relevant file/package level information
 
