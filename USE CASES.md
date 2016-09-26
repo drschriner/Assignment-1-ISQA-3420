@@ -18,9 +18,9 @@ The corporate manager is able to determine license information from provided pro
 
 ##Preconditions: 
 
-+ #####Relevant file/package information is in the SPDX database
++ Relevant file/package information is in the SPDX database
 
-+ #####Proper project information has been provided 
++ Proper project information has been provided 
 
 ##Main Success Scenario:  
 Corporate manager receives accurate license and vulnerability information for the requested project packages
