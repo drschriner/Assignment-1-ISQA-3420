@@ -46,7 +46,7 @@
 
 + Scanner provides accurate Open Source Software license information
 
-**Main Success Scenario:**  
+**Main Success Scenario:**  Corporate manager obtains software policy for requested software package
 
 **Failed End Conditions:**  Corporate manager receives inaccurate or invalid software package policies
 
