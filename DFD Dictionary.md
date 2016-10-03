@@ -2,7 +2,7 @@
 #DFD Dictionary
 
  
- ##Entities: 
+##Entities: 
 
 + *Manager:*  The individual responsbile for software packages. 
 
