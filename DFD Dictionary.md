@@ -8,7 +8,7 @@
 
 + *Developer:* The individual responsbile for the creation of software packages through coding. 
 
-##Processes 
+##Processes: 
 
 + *Manage Software Package for License Scanning:*  
 
@@ -20,7 +20,7 @@
 
 + *Create, Review, Modify Software Policy:*
 
-##Data Flow 
+##Data Flow: 
 
 + *Software Package:*
 
