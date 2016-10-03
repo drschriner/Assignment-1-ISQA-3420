@@ -20,5 +20,33 @@
 
 + *Create, Review, Modify Software Policy:*
 
+##Data Flow 
+
++ *Software Package:*
+
++ *Software Package License and Vulnerability Results:*
+
++ *Name of Software Package:*
+
++ *Known Vulnerability Issues:*
+
++ *Software Package License and Vulnerability Results:*
+
++ *Queried Package and License Information:*
+
++ *Package and License Results:*
+
++ *Queried Software Project Information:*
+
++ *Specified Software Project Results:*
+
++ *Queried Software Policy Information:*
+
++ *Specified Software Policy Results:*
+
++ *Updated Software Policy:*
+
++ *Confirmation of Updated Software Policy:*
+
 
   
