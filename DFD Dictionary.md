@@ -20,6 +20,15 @@
 
 + *Create, Review, Modify Software Policy:*
 
+##Databases:
+
++ *Known Published Vulnerabilities Database:*
+
++ *Software Package License and Vulnerability Database:*
+
++ *Software Package License and Vulnerability Policy Database:*
+
+
 ##Data Flow: 
 
 + *Software Package:*
