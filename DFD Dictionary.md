@@ -22,7 +22,8 @@
 
 ##Databases:
 
-+ *Known Published Vulnerabilities Database:*  Database that is comprised of known vulnerabilities regarding specific software packages. 
++ *Known Published Vulnerabilities Database:*  
+Database that is comprised of known vulnerabilities regarding specific software packages. 
 
 + *Software Package License and Vulnerability Database:*  Database that is comprised of license and vulernability information corresponding to a software package. 
 
