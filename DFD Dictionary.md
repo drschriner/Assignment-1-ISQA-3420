@@ -10,5 +10,15 @@
 
 ##Processes 
 
++ *Manage Software Package for License Scanning:*  
+
++ *Scan for Licenses:* 
+
++ *Request Software Package and License:*
+
++ *Request Software Policy:*
+
++ *Create, Review, Modify Software Policy:*
+
 
   
