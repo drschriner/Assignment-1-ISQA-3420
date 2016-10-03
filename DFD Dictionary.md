@@ -22,16 +22,16 @@
 
 ##Databases:
 
-+ *Known Published Vulnerabilities Database:*
++ *Known Published Vulnerabilities Database:*  Database that is comprised of known vulnerabilities regarding specific software packages. 
 
-+ *Software Package License and Vulnerability Database:*
++ *Software Package License and Vulnerability Database:*  Database that is comprised of license and vulernability information corresponding to a software package. 
 
-+ *Software Package License and Vulnerability Policy Database:*
++ *Software Package License and Vulnerability Policy Database:*  Database that is comprised of license and vulnerability information corresponding to a software policy. 
 
 
 ##Data Flow: 
 
-+ *Software Package:*
++ *Software Package:*  Collection of software files. 
 
 + *Software Package License and Vulnerability Results:*
 
