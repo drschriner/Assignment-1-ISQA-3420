@@ -1,9 +1,14 @@
 
-DFD Dictionary
+#DFD Dictionary
 
-Entites: 
-  Manager - Individual responsible for oversight and editing of software packages and results. 
-  Developer - Individual whose primiary responsibility is the creation of software packages through development. 
-  
- Process: 
+ 
+ ##Entities: 
+
++ *Manager:*  The individual responsbile for software packages. 
+
++ *Developer:* The individual responsbile for the creation of software packages through coding. 
+
+##Processes 
+
+
   
