@@ -4,9 +4,11 @@
  
 ##Entities: 
 
-+ *Manager:*  The individual responsbile for software packages. 
++ *Manager:*  
+  The individual responsbile for software packages. 
 
-+ *Developer:* The individual responsbile for the creation of software packages through coding. 
++ *Developer:* 
+  The individual responsbile for the creation of software packages through coding. 
 
 ##Processes: 
 
@@ -23,7 +25,7 @@
 ##Databases:
 
 + *Known Published Vulnerabilities Database:*  
-Database that is comprised of known vulnerabilities regarding specific software packages. 
+  Database that is comprised of known vulnerabilities regarding specific software packages. 
 
 + *Software Package License and Vulnerability Database:*  Database that is comprised of license and vulernability information corresponding to a software package. 
 
