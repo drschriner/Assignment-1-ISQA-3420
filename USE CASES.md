@@ -52,15 +52,15 @@
 
 **Trigger:**  Corporate manager has access to modify software policies for any requested software package
 
-##3)  Title:  
+##3)  Title:  Review / Modify Software Policies for Software Package
 
-**Primary Actor:**  
+**Primary Actor:**  Corporate Manager
 
-**Goal in Context:**  
+**Goal in Context:**  The corporate manager is able to update OOpen Source Software policies for a given software package
 
 **Stakeholders:** 
 
-+ *Corporate Manager:* To receive clear and relevant Open Source Software policy information corresponding to a software project
++ *Corporate Manager:* To receive, modify, or change Open Source Software policy information corresponding to a software project
 
 + *Corporate Developer:* To provide the relevant file/package level information
 
@@ -72,8 +72,8 @@
 
 + Scanner provides accurate Open Source Software license information
 
-**Main Success Scenario:**  
+**Main Success Scenario:**  Corporate manager is able to update Open Source Software policy to their most current version. 
 
-**Failed End Conditions:**  
+**Failed End Conditions:**  The corporate manger's updated Open Source Software policy does not make it to the Software Package License and Vulnerability Policy database.
 
-**Trigger:**  
+**Trigger:**  Corporate manager has access to modify software policies to push a software pacakge through 
