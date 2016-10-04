@@ -51,3 +51,29 @@
 **Failed End Conditions:**  Corporate manager receives inaccurate or invalid software package policies upon request
 
 **Trigger:**  Corporate manager has access to modify software policies for any requested software package
+
+##3)  Title:  
+
+**Primary Actor:**  
+
+**Goal in Context:**  
+
+**Stakeholders:** 
+
++ *Corporate Manager:* To receive clear and relevant Open Source Software policy information corresponding to a software project
+
++ *Corporate Developer:* To provide the relevant file/package level information
+
+**Preconditions:** 
+
++ Relevant file/package information is in the Known Vulnerability Issue Database
+
++ Software package license and vulnerability information is up to date 
+
++ Scanner provides accurate Open Source Software license information
+
+**Main Success Scenario:**  
+
+**Failed End Conditions:**  
+
+**Trigger:**  
