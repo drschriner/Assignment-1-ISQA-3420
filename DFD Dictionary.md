@@ -41,9 +41,7 @@ The definitions of all the entities, processes, databases, and data flows used i
 
 + **Software Package License Results:**  License information pertainting to a specfic software package. 
 
-+ **Queried Package and License Information:**  Desired software package and license information requested by an entity. 
-
-+ **Package and License Results:**  The requested software package and license as queired by the entity. 
++ **Software Package License and Vulerability Results:**
 
 + **Queried Software Project Information:**  Desired software project information requested by an entity. 
 
