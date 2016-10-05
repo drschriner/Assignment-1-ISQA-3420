@@ -43,17 +43,17 @@ The definitions of all the entities, processes, databases, and data flows used i
 
 + **Software Package License and Vulnerability Results:**  License and vulnerability information pertainting to a specfic software package. 
 
-+ **Queried Package and License Information:**  Desired software package and license information by an entity. 
++ **Queried Package and License Information:**  Desired software package and license information requested by an entity. 
 
-+ **Package and License Results:**  The requested software package and license the entity wanted. 
++ **Package and License Results:**  The requested software package and license as queired by the entity. 
 
-+ **Queried Software Project Information:**  Desired software project information by an entity. 
++ **Queried Software Project Information:**  Desired software project information requested by an entity. 
 
-+ **Specified Software Project Results:**  The requested software project the entity wanted. 
++ **Specified Software Project Results:**  The requested software project as queired by the entity. 
 
-+ **Queried Software Policy Information:**  Desired software policy information by an entity. 
++ **Queried Software Policy Information:**  Desired software policy information requestd by an entity. 
 
-+ **Specified Software Policy Results:**  The requested software policy the entity wanted. 
++ **Specified Software Policy Results:**  The requested software policy as queired by the entity. 
 
 + **Updated Software Policy:**  The most current version of a software policy after the manager has edited it. 
 
