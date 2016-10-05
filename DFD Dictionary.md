@@ -39,7 +39,7 @@ The definitions of all the entities, processes, databases, and data flows used i
 
 + **Known Vulnerability Issues:**  The known vulerability issues of a software package. 
 
-+ **Software Package License and Vulnerability Results:**  License and vulnerability information pertainting to a specfic software package. 
++ **Software Package License Results:**  License information pertainting to a specfic software package. 
 
 + **Queried Package and License Information:**  Desired software package and license information requested by an entity. 
 
