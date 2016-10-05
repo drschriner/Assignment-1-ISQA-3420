@@ -35,8 +35,6 @@ The definitions of all the entities, processes, databases, and data flows used i
 
 + **Software Package:**  Collection of software files. 
 
-+ **Software Package License and Vulnerability Results:**
-
 + **Name of Software Package:**  The identifying name of a software package. 
 
 + **Known Vulnerability Issues:**  The known vulerability issues of a software package. 
