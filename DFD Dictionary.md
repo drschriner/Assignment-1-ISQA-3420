@@ -16,11 +16,11 @@ The definitions of all the entities, processes, databases, and data flows used i
 
 + **Scan for Licenses:**  A process that scans for licenses associated to a software package. 
 
-+ **Request Software Package and License:**  A process that retrieves specified information regarding softare packages and licenses upon request from either Developer or Manager. 
++ **Request Software Package and License:**  A process that retrieves specified information regarding softare packages and licenses upon request from either the Developer or Manager. 
 
 + **Request Software Policy:**  A process that retrieves policy information pertaining to software packages upon request from  either the Developer or Manager.
 
-+ **Create, Review, Modify Software Policy:**  A process that allows the Manager to update software policies to their most current version.
++ **Create, Review, Modify Software Policy:**  A process that allows the Manager to create or update software policies to their most current version.
 
 ##Databases:
 
