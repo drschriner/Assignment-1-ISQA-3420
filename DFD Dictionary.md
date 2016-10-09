@@ -35,13 +35,13 @@ The definitions of all the entities, processes, databases, and data flows used i
 
 + **Software Package:**  Collection of software files. 
 
-+ **Name of Software Package:**  The identifying name of a software package. 
++ **Name of a Software Package:**  The identifying name of a software package. 
 
 + **Known Vulnerability Issues:**  The known vulerability issues of a software package. 
 
-+ **Software Package License Results:**  License information pertainting to a specfic software package. 
++ **Software License Results:**  License information pertainting to a specfic software package. 
 
-+ **Software Package License and Vulerability Results:**
++ **Software Package License and Vulerability Results:**  The known vulernability issues and license information corresponding to a software package.
 
 + **Queried Software Project Information:**  Desired software project information requested by an entity. 
 
@@ -51,9 +51,9 @@ The definitions of all the entities, processes, databases, and data flows used i
 
 + **Specified Software Policy Results:**  The requested software policy as queired by the entity. 
 
-+ **Updated Software Policy:**  The most current version of a software policy after the manager has edited it. 
++ **New or Updated Software Policy:**  The most current version of a software policy after the manager's review and or creation. 
 
-+ **Confirmation of Updated Software Policy:**  A message that confirms to the manager the Software Package License and Vulnerability Policy Database received the new version of the software policy. 
++ **Confirmation of Software Policy Amendment:**  A message that confirms to the manager the Software Package License and Vulnerability Policy database received the new version of the software policy. 
 
 
   
