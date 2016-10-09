@@ -8,7 +8,7 @@ The definitions of all the entities, processes, databases, and data flows used i
 
 + **Manager:**  The individual responsbile for software packages. 
 
-+ **Developer:**  The individual responsbile for the creation of software packages through coding. 
++ **Developer:**  The individual responsbile for the creation and submission of software packages. 
 
 ##Processes: 
 
