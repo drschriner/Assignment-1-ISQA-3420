@@ -28,7 +28,7 @@ The definitions of all the entities, processes, databases, and data flows used i
 
 + **Software Package License and Vulnerability Database:**  Database that is comprised of license and vulernability information corresponding to a software package. 
 
-+ **Software Package License and Vulnerability Policy Database:**  Database that is comprised of license and vulnerability information corresponding to a software policy. 
++ **Software Package License and Vulnerability Policy Database:**  Database that is comprised of policy documents and information for associated software packages. 
 
 
 ##Data Flow: 
