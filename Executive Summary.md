@@ -2,7 +2,7 @@
 #Executive Summary 
 
  
-##Motivation ~ *Why Was This System Designed*
+##Motivation## ~ *Why Was This System Designed*
 
 
 ##Organizational Structure ~ *Changes Within Organization*
