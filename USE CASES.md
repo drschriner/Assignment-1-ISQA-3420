@@ -48,7 +48,7 @@
 
 + Known Published Vulnerabilites Database and Software Package License and Vulnerability Database are up to date
 
-**Main Success Scenario:**  Manager obtains accurate and valid software policy for requested software packages.
+**Main Success Scenario:**  Manager obtains accurate and valid software policies for requested software packages.
 
 **Failed End Conditions:**  Manager receives inaccurate or invalid software policies upon requested software packages.
 
