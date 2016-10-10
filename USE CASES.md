@@ -26,6 +26,8 @@
 
 **Trigger:**  Manager uploads or identifies project information to which license and vulnerability information is provided. 
 
+  ------------------------------------------------------------------------------------------------------------------
+
 ##2)  Title:  Determine Software Policies for Respective Software Package
 
 **Primary Actor:**  Manager
@@ -51,6 +53,8 @@
 **Failed End Conditions:**  Manager receives inaccurate or invalid software package policies upon request,
 
 **Trigger:**  Manager has access to modify software policies for any requested software package.
+
+  ------------------------------------------------------------------------------------------------------------------
 
 ##3)  Title:  Review / Modify Software Policies for Software Package
 
