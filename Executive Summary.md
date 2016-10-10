@@ -2,18 +2,18 @@
 #Executive Summary 
 
  
-##Motivation: 
+##Motivation ~ *Why Was This System Designed*
 
 
-##Organizational Structure: 
-
-
-
-##Authority and Control:
+##Organizational Structure ~ *Changes Within Organization*
 
 
 
-##Social Responsibility: 
+##Authority and Control ~ *New Responsibilities
+
+
+
+##Social Responsibility ~ *Impacts Beyound Organization*
 
 
 
