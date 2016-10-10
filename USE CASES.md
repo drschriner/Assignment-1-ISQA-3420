@@ -36,9 +36,9 @@
 
 **Stakeholders:** 
 
-+ *Corporate Manager:* To receive clear and relevant Open Source Software policy information corresponding to a software project.
++ *Manager:* To receive clear and relevant Open Source Software policy information corresponding to a software project.
 
-+ *Corporate Developer:* To provide the relevant file/package level information.
++ *Developer:* To provide the relevant file/package level information.
 
 **Preconditions:** 
 
@@ -64,7 +64,9 @@
 
 **Stakeholders:** 
 
-+ *Corporate Manager:* To receive, modify, or change Open Source Software policy information corresponding to a software project.
++ *Manager:* To receive, modify, or change Open Source Software policy information corresponding to a software project.
+
++ *Developer:* To provide the relevant file/package level information.
 
 **Preconditions:** 
 
