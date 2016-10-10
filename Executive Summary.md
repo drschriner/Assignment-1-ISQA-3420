@@ -18,8 +18,8 @@ As mentioned above, the developer has a new responsibility to submit open source
 
 
 
-**Social Responsibility** ~ *Impacts Beyound Organization*
+**Social Responsibility** ~ *Impacts Beyond Organization*
 
-By blending open source software with a company's own proprietary software, it is very likely software projects will now be compromised of both types of software. For this reason, the organization will want to support the open source community they receive their source code from to ensure they do not go away.  Such support minimize the company's chance of losing source code that is an integral part of their software projects and being left with the options of finding alternative open source providers or maintaining the open source code in house.  However, our Data Flow Diagram does not depict any contributions back to open source communities.  
+By blending open source software with a company's own proprietary software, it is very likely software projects will now be compromised of both types of software. For this reason, the organization will want to support the open source community they receive their source code from to ensure they do not go away.  Such support minimize will the company's chance of losing source code that is an integral part of their software projects and avoid the options of finding alternative open source providers or maintaining the open source code in house.  However, our Data Flow Diagram does not depict any contributions back to open source communities.  Therefore, for the scope of this project the social responsibilities of the organization is to release open source software that adherences to licenses and is well protected against vulnerabilites.  This will allow other users to continue making changes and improvements to the open source software by having a diversified group of developers working on the source code.  
   
 
