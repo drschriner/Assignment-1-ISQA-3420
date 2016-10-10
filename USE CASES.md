@@ -42,15 +42,15 @@
 
 **Preconditions:** 
 
-+ Relevant file/package information is in the Known Vulnerability Issue Database
-
-+ Software package license and vulnerability information is up to date 
++ Relevant file/package information is in the Software Package License and Vulnerability Policy Database
 
 + Scanner provides accurate Open Source Software license information
 
++ Known Published Vulnerabilites Database and Software Package License and Vulnerability Database are up to date
+
 **Main Success Scenario:**  Manager obtains accurate and valid software policy for requested software package.
 
-**Failed End Conditions:**  Manager receives inaccurate or invalid software package policies upon request,
+**Failed End Conditions:**  Manager receives inaccurate or invalid software policies upon requested software package.
 
 **Trigger:**  Manager has access to modify software policies for any requested software package.
 
@@ -60,24 +60,20 @@
 
 **Primary Actor:**  Manager
 
-**Goal in Context:**  The manager is able to update OOpen Source Software policies for a given software package.
+**Goal in Context:**  The manager is able to create or update Open Source Software policies for a given software package.
 
 **Stakeholders:** 
 
 + *Corporate Manager:* To receive, modify, or change Open Source Software policy information corresponding to a software project.
 
-+ *Corporate Developer:* To provide the relevant file/package level information.
-
 **Preconditions:** 
 
-+ Relevant file/package information is in the Known Vulnerability Issue Database
++ Relevant file/package information is in the Software Package License and Vulnerability Policy Database
 
-+ Software package license and vulnerability information is up to date 
++ Manager is able to retreive most current version of software policy upon request 
 
-+ Scanner provides accurate Open Source Software license information
+**Main Success Scenario:**  Corporate manager is able to create or update Open Source Software policy to their most current version. 
 
-**Main Success Scenario:**  Corporate manager is able to update Open Source Software policy to their most current version. 
+**Failed End Conditions:**  The corporate manger's created or updated Open Source Software policy does not make it to the Software Package License and Vulnerability Policy database.
 
-**Failed End Conditions:**  The corporate manger's updated Open Source Software policy does not make it to the Software Package License and Vulnerability Policy database.
-
-**Trigger:**  Corporate manager has access to modify software policies to push a software pacakge through.
+**Trigger:**  Corporate manager has ability to modify or create software policies to push a software pacakge through.
