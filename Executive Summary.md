@@ -4,8 +4,7 @@
  
 **Motivation** ~ *Why Was This System Designed*
 
-The purpose of this assignment is to capture the internal perspective of a corporation receiving open source software from the external environment.  The Data Flow Diagram illustrates all the processes and databases that need to be designed in order to properly verify and store open source software.  Organizations must be thorough when they receive open source software, to ensure they understand what the software does and the associated restrictions and permissions.  The Data Flow Diagram in this assignment puts procedures into place that will determine the licenses and vulnerabilities information for associated open source software.  All of this is necessary to avoid illegal use of open source software and incorporate open source software into a business's proprietary software most successfully.  
-
+The purpose of this assignment is to capture the internal perspective of a corporation receiving open source software from the external environment.  The Data Flow Diagram illustrates all the processes and databases that need to be designed in order to properly verify and store open source software.  Organizations must be thorough when they receive open source software, to ensure they understand what the software does and the associated restrictions and permissions.  The Data Flow Diagram in this assignment puts procedures into place that will determine the license and vulnerability information for associated open source software.  All of this is necessary to avoid illegal use of open source software and to efficiently incorporate open source software into a business's proprietary software.
 
 **Organizational Structure** ~ *Changes Within Organization*
 
