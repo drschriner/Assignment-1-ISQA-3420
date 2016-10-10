@@ -20,7 +20,7 @@ As mentioned above, the developer has a new responsibility to submit open source
 
 **Social Responsibility** ~ *Impacts Beyound Organization*
 
-
+By blending Open Source Software with a company's own proprietary software, it is very likely software projecs will now be compromised of both.  That is why the organization will now have a responsibility to support the Open source Community they have receiving their code from to ensure they do not go away.  The company does not want to be left with the options of finding alternative Open Source providers or maintaining the Open Source code in house.  From this reason, the organizatino has a social responsibility to aid the Open Source Community to minimize the chance of losing source code that is now an integral part of their software projects. 
 
   
 
