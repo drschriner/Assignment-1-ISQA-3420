@@ -32,11 +32,11 @@
 
 **Primary Actor:**  Manager
 
-**Goal in Context:**  The manager is able to obtain Open Source Software policies for a given software project. 
+**Goal in Context:**  The manager is able to obtain Open Source Software policies for given software packages.
 
 **Stakeholders:** 
 
-+ *Manager:* To receive clear and relevant Open Source Software policy information corresponding to a software project.
++ *Manager:* To receive clear and relevant Open Source Software policy information corresponding to software packages.
 
 + *Developer:* To provide the relevant file/package level information.
 
@@ -48,9 +48,9 @@
 
 + Known Published Vulnerabilites Database and Software Package License and Vulnerability Database are up to date
 
-**Main Success Scenario:**  Manager obtains accurate and valid software policy for requested software package.
+**Main Success Scenario:**  Manager obtains accurate and valid software policy for requested software packages.
 
-**Failed End Conditions:**  Manager receives inaccurate or invalid software policies upon requested software package.
+**Failed End Conditions:**  Manager receives inaccurate or invalid software policies upon requested software packages.
 
 **Trigger:**  Manager has access to modify software policies for any requested software package.
 
