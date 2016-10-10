@@ -14,6 +14,8 @@ From the implementation of this new system, changes within the organization will
 
 **Authority and Control** ~ *New Responsibilities
 
+As mentioned above, the developer has a new responsibility to submit open source software packages.  The developer and manager both have the ability to request information pertaining to a software package's license and vulnerability information.  Also, they both can request software policies that reveal which software packages violate license or vulnerability requirements.  The manager has the capability to modify existing policy documents or submit new software policy documents altogether.
+
 
 
 **Social Responsibility** ~ *Impacts Beyound Organization*
