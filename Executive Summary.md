@@ -12,7 +12,7 @@ The purpose of this assignment is to capture the internal perspective of a corpo
 From the implementation of this new system, changes within the organization will occur. Three new databases will have to be implemented within the company with accompanying resources in order to properly manage and protect the data. Additionally, the developer is now procuring external source code into the company, which is inheriting additional costs. Adjustment of organizational structure is paramount when companies engage in Open Source Software because only one person is required to file a lawsuit. Therefore, to ensure the company is informed properly of the Open Source Software they receive and use, organizational changes will have to occur.
 
 
-**Authority and Control** ~ *New Responsibilities
+**Authority and Control** ~ *New Responsibilities*
 
 As mentioned above, the developer has a new responsibility to submit open source software packages.  The developer and manager both have the ability to request information pertaining to a software package's license and vulnerability information.  Also, they both can request software policies that reveal which software packages violate license or vulnerability requirements.  The manager has the capability to modify existing policy documents or submit new software policy documents altogether.
 
